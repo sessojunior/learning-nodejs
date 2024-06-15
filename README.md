@@ -1,2 +1,3 @@
-# learning-nodejs
-Aprendendo Node.js
+# Aprendendo Node.js
+
+Projetos de aprendizagem de Node.js
